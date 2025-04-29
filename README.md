@@ -2,13 +2,13 @@
 Cross-Browser Testing | BrowserStack Automation *Python script to validate login functionality across Chrome, Firefox, Safari, and Edge using BrowserStack's Selenium
 
 
-# 🧪 Cross-Browser Testing Report – SauceDemo
+# 🧪 Cross-Browser Testing Report – Swaglabs
 
 ## 📋 Task Overview
 
 | Category        | Details                                                                  |
 |----------------|--------------------------------------------------------------------------|
-| **Objective**   | Perform cross-browser testing of SauceDemo login page using BrowserStack |
+| **Objective**   | Perform cross-browser testing of swaglabs login page using BrowserStack |
 | **Scope**       | Chrome, Firefox, Safari, Edge                                            |
 | **Test URL**    | `https://www.saucedemo.com/`                                             |
 | **Test Type**   | Functional + UI Validation                                               |
